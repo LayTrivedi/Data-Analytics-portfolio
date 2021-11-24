@@ -1,6 +1,6 @@
 /*
 Cleaning Data in SQL Queries
-Used CTE, Parsenme, Substring, Charindex.
+Used CTE, Parsename, Substring, Charindex.
 */
 
 
